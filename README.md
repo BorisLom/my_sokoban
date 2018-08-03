@@ -1,9 +1,9 @@
 My_sokoban
 ===
 
-First year Epitech project : B1 - Unix System Programmation : my_sokoban
+First year Epitech project : my_sokoban
 
-This project uses the ncurses library.
+Simple sokoban game in terminal using the ncurses library
 
 ---
 
