@@ -3,10 +3,11 @@ My_sokoban
 
 First year Epitech project : B1 - Unix System Programmation : my_sokoban
 
+This project uses the ncurses library.
 
-this project uses the ncurses library
+---
 
-to launch the game:
+To play the game:
 
 ```
 make re
